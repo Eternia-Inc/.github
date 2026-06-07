@@ -1,1 +1,2 @@
-## <p style="text-align: center;">WE ARE ETERNIA.</p>
+## ETERNIA
+We are Eternia, an organization based in Milwaukee committed to serving the public.
